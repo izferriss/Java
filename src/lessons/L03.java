@@ -1,3 +1,8 @@
+/*
+ * This tutorial went over conditional statements and logical operators.
+ * Much of the operators were glossed over because of their similarities to other languages.
+ */
+
 package lessons;
 
 public class L03

@@ -1,3 +1,8 @@
+/*
+ * This tutorial went over user input and some basic mathematical operators.
+ * I've glossed over much of the math as it draws similarities to other languages.
+ */
+
 package lessons;
 
 import java.util.Scanner;
