@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author IFerriss
+ *
+ */
+module JavaCode {
+}
