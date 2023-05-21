@@ -63,11 +63,7 @@ public class L06
 		{
 			FileInputStream file = new FileInputStream(path);
 		}
-		catch(ClassNotFoundException | IOException e) {}
-		catch(FileNotFoundException e)
-		{
-			System.out.println("File not found!");
-		}
+
 		catch(Exception e)
 		{
 			System.out.println("Some error occurred");
